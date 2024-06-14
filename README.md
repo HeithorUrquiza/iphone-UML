@@ -2,7 +2,7 @@
 
 ## Representação UML 📝
 
-<img alt="Diagrama UML" height="20%" src="./img/iphone-uml.png" width="80%"/>
+<img alt="Diagrama UML" height="20%" src="./img/iphone-uml.png" width="100%"/>
 
 A diagramação foi inspirada no vídeo de lançamento do iPhone, utilizando a ferramenta de UML Lucidchart. 
 A proposta é representar, por meio de interfaces e classes, os papéis do iPhone como Reprodutor Musical, 
